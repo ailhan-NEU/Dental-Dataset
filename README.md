@@ -1,1 +1,1 @@
-# Dental Caries Classification Dataset
+# Dental Caries Classification
